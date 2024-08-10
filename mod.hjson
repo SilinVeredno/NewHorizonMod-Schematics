@@ -1,13 +1,13 @@
 name: nh-scheme-pack,
 displayName: New Horizon scheme pack,
-subtitle: Use what professionals use,
+subtitle: The most important,
 author: "[blue]Silin Veredno",
 description: "
 [sky]RU[white]
-Мод добавляет Схемы для модификации New Horizon.
+Мод добавляет Схемы для модификации New Horizon. Тег: +
 
 [blue]ENG[white]
-The mod adds Schematics for the New Horizon modification.
+The mod adds Schematics for the New Horizon modification. Tag: +
 ",
 version: 0.5.1
 hidden: true,
