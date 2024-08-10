@@ -1,0 +1,14 @@
+name: v-scheme-pack,
+displayName: Virtual Scheme Pack,
+subtitle: Use what professionals use,
+author: "[blue]Silin Veredno",
+description: "
+[red]RU[white]
+Мод добавляет Схемы для модификации New Horizon. Этапы развития схем 
+
+[blue]ENG[white]
+
+",
+version: 0.5.1
+hidden: true,
+minGameVersion: 146
