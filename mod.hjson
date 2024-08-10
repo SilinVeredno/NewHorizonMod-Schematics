@@ -1,13 +1,13 @@
-name: v-scheme-pack,
-displayName: Virtual Scheme Pack,
+name: nh-scheme-pack,
+displayName: New Horizon scheme pack,
 subtitle: Use what professionals use,
 author: "[blue]Silin Veredno",
 description: "
-[red]RU[white]
-Мод добавляет Схемы для модификации New Horizon. Этапы развития схем 
+[sky]RU[white]
+Мод добавляет Схемы для модификации New Horizon.
 
 [blue]ENG[white]
-
+The mod adds Schematics for the New Horizon modification.
 ",
 version: 0.5.1
 hidden: true,
