@@ -1,2 +1,2 @@
 # NewHorizonMod-Schems
-Schemes for the game mod mindastry, mod - "New Horizon"
+Scheme pack for the game mindustry, mod - "New Horizon"
