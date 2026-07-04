@@ -4,12 +4,12 @@ subtitle: The most important,
 author: "[blue]Silin Veredno",
 description: "
 [sky]RU[white]
-Мод добавляет Схемы для модификации New Horizon. Тег: +
+Мод добавляет Схемы для модификации New Horizon. Тег: NH
 
 [blue]ENG[white]
-The mod adds Schematics for the New Horizon modification. Tag: +
+The mod adds Schematics for the New Horizon modification. Tag: NH
 My Discord: silinveredno_edmstep
 ",
-version: 0.5.1
+version: 2.1.0
 hidden: true,
 minGameVersion: 146
